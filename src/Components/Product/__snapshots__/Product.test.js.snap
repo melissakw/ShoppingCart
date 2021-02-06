@@ -1,0 +1,121 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Product correctly 1`] = `
+Array [
+  <div
+    className="sc-bdfBwQ pdzVR"
+  >
+    <div
+      className="MuiPaper-root MuiCard-root MuiPaper-elevation1 MuiPaper-rounded"
+      style={
+        Object {
+          "boxShadow": "0px 0px 0px white",
+        }
+      }
+    >
+      <div
+        className="sc-gsTCUz jsccXy d-flex flex-column"
+      >
+        <img
+          alt="Backpack"
+          className="sc-hKgILt Ibfk"
+          src="https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+        />
+        <div
+          className="sc-eCssSg jrJvnJ"
+        >
+          <div>
+            <div
+              className="MuiCardContent-root"
+            >
+              <p
+                className="sc-dlfnbm ibNFrJ"
+              >
+                Backpack
+              </p>
+              <p
+                className="sc-dlfnbm ibNFrJ"
+              >
+                $
+                109.95
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiCardActions-root MuiCardActions-spacing"
+            style={
+              Object {
+                "justifyContent": "center",
+              }
+            }
+          >
+            <button
+              className="sc-jSgupP iYGaRU"
+              data-testid="add-to-cart"
+              onClick={[Function]}
+            >
+              Add to cart
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="MuiPaper-root MuiCard-root MuiPaper-elevation1 MuiPaper-rounded"
+      style={
+        Object {
+          "boxShadow": "0px 0px 0px white",
+        }
+      }
+    >
+      <div
+        className="sc-gsTCUz jsccXy d-flex flex-column"
+      >
+        <img
+          alt="shirt "
+          className="sc-hKgILt Ibfk"
+          src="https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+        />
+        <div
+          className="sc-eCssSg jrJvnJ"
+        >
+          <div>
+            <div
+              className="MuiCardContent-root"
+            >
+              <p
+                className="sc-dlfnbm ibNFrJ"
+              >
+                shirt 
+              </p>
+              <p
+                className="sc-dlfnbm ibNFrJ"
+              >
+                $
+                22.3
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiCardActions-root MuiCardActions-spacing"
+            style={
+              Object {
+                "justifyContent": "center",
+              }
+            }
+          >
+            <button
+              className="sc-jSgupP iYGaRU"
+              data-testid="add-to-cart"
+              onClick={[Function]}
+            >
+              Add to cart
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "/ ",
+]
+`;

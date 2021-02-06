@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Error Page correctly 1`] = `
+<div
+  className="sc-bdfBwQ olWrH"
+>
+  <h1
+    className="sc-fFubgz dtguBp"
+  >
+    Oops... 
+  </h1>
+  <h3
+    className="sc-bkzZxe linzoE"
+  >
+    The page you were looking for was not found.
+  </h3>
+  <a
+    data-testid="go-home-link"
+    href="/"
+    onClick={[Function]}
+  >
+    <button
+      className="sc-fodVxV gBMCGh"
+    >
+      Go back
+    </button>
+  </a>
+</div>
+`;

@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders EmptyCart page correctly 1`] = `
+<div
+  className="sc-bdfBwQ kylujj"
+>
+  <div
+    className="sc-dlfnbm hKxfWe"
+  >
+    Your cart is empty
+  </div>
+  <a
+    className="sc-gsTCUz jleWEr"
+    href="/"
+    onClick={[Function]}
+  >
+    <div
+      className="sc-hKgILt hRjbDQ"
+    >
+      Find something you love to fill it up
+    </div>
+  </a>
+</div>
+`;
