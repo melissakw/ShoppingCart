@@ -52,7 +52,7 @@ This React demo showcases a simple products page where you can add, remove, and 
 **There are two parts to this app:**
 
 - This repo hosts the client application only
-- You can find the server application [here](https://github.com/melissakw/optionsServer)
+- You can find the server application [here](https://github.com/melissakw/ShoppingCartServer)
 
 
 ---
